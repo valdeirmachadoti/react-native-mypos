@@ -13,7 +13,7 @@
     "react": "16.9.0",
     "react-native": "0.61.2",
     "moment": "2.24.0",
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "react-native-gravatar": "1.0.2",
     "react-native-vector-icons": "5.0.0",
     "react-navigation": "2.14.2",
